@@ -38,8 +38,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 
 ## Author
